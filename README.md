@@ -1,1 +1,19 @@
-# covid19-tracker_vue_js_and_tailwind
+# covid19-tracker_vuejs_and_tailwind
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
